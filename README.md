@@ -29,7 +29,7 @@ Curso de Formação iniciada e continuada de NOVOS NEGÓCIOS EM TIC-IOS pelo IFC
 ##
 
 <div class="contatos"> 
- <a href = "mailto:contatoanathalia.izidro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:anathalia.izidro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/anathalia-izidro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
