@@ -9,11 +9,9 @@ Já estagiei na na área de suporte, gerenciamento e dados e desnvolvimento de t
 Tenho enteresse na parte de Front-End e IOS.
 Curso de Formação iniciada e continuada de NOVOS NEGÓCIOS EM TIC-IOS pelo IFCE que possue 200 horas de Protótipo de Software e 200 horas de produto de Software.
 
-<link rel="stylesheet" href="style.css">
+##
 
-<div class="linkedin">
- <a href="https://www.linkedin.com/in/anathalia-izidro" target="_blank"><img align="center" alt="Anathalia-linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
- </div>
+<link rel="stylesheet" href="style.css">
  
 <div class="grafico"> 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anathaliaizidro&show_incons=true&theme=dracula&include_all_commits=true&cont_private=true"/>
@@ -28,3 +26,10 @@ Curso de Formação iniciada e continuada de NOVOS NEGÓCIOS EM TIC-IOS pelo IFC
   <img align="center" alt="Ana-Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
 </div>
 
+##
+
+<div class="contatos"> 
+ <a href = "mailto:contatoanathalia.izidro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/anathalia-izidro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+  
