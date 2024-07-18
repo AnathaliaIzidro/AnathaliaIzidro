@@ -7,7 +7,7 @@ Estou cursando Desenvolvimento Full Stack na Infinity School.
 Já estagiei na na área de suporte, gerenciamento e dados e desnvolvimento de testes automatizados em linguagem Python.
 
 Tenho enteresse na parte de Front-End e IOS.
-Curso de Formação iniciada e continuada de NOVOS NEGÓCIOS EM TIC-IOS pelo IFCE que possue 200 horas de Protótipo de Software e 200 horas de produto de Software.
+Curso de Formação iniciada e continuada de NOVOS NEGÓCIOS EM TIC-IOS pelo IFCE que possue 200 horas de Protótipo de Software e 200 horas de Produto de Software.
 
 ##
 
