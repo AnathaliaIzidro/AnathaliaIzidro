@@ -14,9 +14,8 @@ Curso de Formação iniciada e continuada de NOVOS NEGÓCIOS EM TIC-IOS pelo IFC
 <link rel="stylesheet" href="style.css">
  
 <div class="grafico"> 
- <img height="250em" width="600em" src="https://github-readme-stats.vercel.app/api?username=anathaliaizidro&include_all_commits=true&cont_private=true&theme=e.g.dark&show_icons=true"/> 
-
- <img height="380em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anathaliaizidro&layout=donut-vertical&langs_count=16&theme=e.g.dark"/>
+ <img height="250em" width="450em" src="https://github-readme-stats.vercel.app/api?username=anathaliaizidro&include_all_commits=true&cont_private=true&theme=e.g.dark&show_icons=true"/> 
+ <img height="350em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anathaliaizidro&layout=donut-vertical&langs_count=16&theme=e.g.dark"/>
 </div>
     
 <div style="display: inline_block"><br>
